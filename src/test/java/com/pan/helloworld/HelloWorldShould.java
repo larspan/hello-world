@@ -9,7 +9,7 @@ public class HelloWorldShould {
 	@Test
 	public void test() {
 		HelloWorld helloWorld = new HelloWorld();
-		assertEquals("Hello World!", helloWorld.sayHello());
+		assertEquals("Hello world", helloWorld.sayHello());
 	}
 
 }
