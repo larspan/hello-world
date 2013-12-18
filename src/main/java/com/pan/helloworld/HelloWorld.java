@@ -2,8 +2,8 @@ package com.pan.helloworld;
 
 public class HelloWorld {
 
-	public Object sayHello() {
+	public String sayHello() {
 		return "Hello world";
 	}
-
+	
 }
